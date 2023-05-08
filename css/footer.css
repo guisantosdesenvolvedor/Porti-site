@@ -71,7 +71,7 @@ footer{
 }
 
 .footer-col .medias-socias a:hover{
-    color: #ca4141e3;
+    color: #ca4141;
     background-color: white;
 }
 .footer-col .form-sub input{
@@ -81,7 +81,7 @@ footer{
     outline: none;
     border: 1px solid white;
     color: white;
-    background-color: #ca4141e3;
+    background-color: #ca4141;
 }
 .footer-col .form-sub input::placeholder{
     color: white;
@@ -94,7 +94,7 @@ footer{
     outline: none;
     border: none;
     cursor: pointer;
-    color: #ca4141e3;
+    color: #ca4141;
     border-radius: 3px;
     font-weight: bold;
     background-color: white;        

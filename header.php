@@ -13,7 +13,6 @@
 		<label for="check" class="checkbtn">
 			<i class="fas fa-bars"></i>
 		</label>
-		<img src="img/logopequenaweb.png" alt="" class="logo">
 		<ul>
 			<li><a class="active" href="#">Início</a></li>
 			<li><a href="#">Sobre</a></li>
